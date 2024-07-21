@@ -1,1 +1,1 @@
-# template-terraform-application
+# Deneb
